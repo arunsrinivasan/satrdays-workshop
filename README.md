@@ -5,6 +5,6 @@ This 90-minutes workshop is intended to just introduce data.table's general form
 
 Note that, due to time limitations, there's a lot of features, enhancements, optimisations etc. this workshop does not cover. To learn more about data.table, please visit the [project home page](www.r-datatable.com) and go through the [vignettes](https://github.com/Rdatatable/data.table/wiki/Getting-started). Also keep an eye on [issue #944](https://github.com/Rdatatable/data.table/issues/944) for the remaining vignettes that will be rolled out as soon as possible.
 
-In particular, for this workshop, it would be useful to go through the talk, [slides](https://github.com/Rdatatable/data.table/wiki/talks/ArunSrinivasanSatRdaysBudapest2016.pdf) and [video](http://www.ustream.tv/recorded/91031033), I gave at SatRdays on data.table's syntax and recent features.
+In particular, if you are interested in the concepts covered in this workshop, it would be useful to go through the talk, [slides](https://github.com/Rdatatable/data.table/wiki/talks/ArunSrinivasanSatRdaysBudapest2016.pdf) and [video](http://www.ustream.tv/recorded/91031033), I gave at SatRdays on data.table's syntax and recent features.
 
 I also suggest going through the [Articles](https://github.com/Rdatatable/data.table/wiki/Articles) on data.table and talks from [us, data.table authors](https://github.com/Rdatatable/data.table/wiki/Presentations). 
