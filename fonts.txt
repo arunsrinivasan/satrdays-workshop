@@ -1,0 +1,6 @@
+In case you were wondering about the fonts used in the pdf:
+
+BebasNeue (header / title)
+Geomanist (body)
+Source Code Pro (code)
+
